@@ -9,19 +9,25 @@ Another key feature of Harvestify is its crop and leaf disease detection capabil
 Overall, Harvestify is a powerful machine learning tool that can provide valuable insights into crop detection, crop area-based recommendations, and crop and leaf disease detection. Its accurate and efficient algorithms make it a valuable tool for farmers, researchers, and anyone involved in the agricultural industry.
 
 Home Page:
-![image](https://github.com/tejas11054/Harvestify/assets/140798292/402c894d-ec49-4697-b8de-c7033a8f1e5b)
+![home-page-1](https://github.com/user-attachments/assets/a1bd3217-0bc3-4d02-8512-d42b3f3ddc66)
 
-![image](https://github.com/tejas11054/Harvestify/assets/140798292/d78d6ab5-bac0-48fe-bf5b-3f951adf5977)
+
+
+![home-page-2](https://github.com/user-attachments/assets/1db16e1f-23d2-4ce7-93a9-97cdea5dec46)
 
 Crop Prediction
-![image](https://github.com/tejas11054/Harvestify/assets/140798292/c6c70302-1527-412c-8acd-91a740e88f07)
 
-![image](https://github.com/tejas11054/Harvestify/assets/140798292/1f005cac-4276-4f0a-bdc0-f0aba296efae)
+![crop-prediction](https://github.com/user-attachments/assets/8c27f833-0b9c-415b-b21b-a21a1905a52a)
+
+
+![fertilizers](https://github.com/user-attachments/assets/b9f288ba-f60c-4e4e-800e-03f30ac7b8c4)
 
 Disease Detection
-![image](https://github.com/tejas11054/Harvestify/assets/140798292/27920b84-672a-4eee-8276-dec12e266d45)
 
-![image](https://github.com/tejas11054/Harvestify/assets/140798292/c7077fac-6257-4b05-ab77-a3a3dd307ddd)
+![disease-prediction](https://github.com/user-attachments/assets/93beaac0-e201-486b-bdbf-0542df39af13)
+
+![disease-prevention](https://github.com/user-attachments/assets/97259cbb-1142-4254-9c3a-c1ab9e6f6ecc)
+
 
 
 
